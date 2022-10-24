@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1638267104 source:c:\users\leo gavin\documents\seraching algorithems\main.c
+	<stdio.h>
+	<stdlib.h>
+
